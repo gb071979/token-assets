@@ -1,0 +1,21 @@
+{
+  "name": "Tether USD Token List",
+  "logoURI": "https://raw.githubusercontent.com/gb071979/token-assets/main/tether-usdt-logo-resized.png",
+  "timestamp": "2025-06-16T09:00:00Z",
+  "keywords": ["stablecoin", "tether"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x64ff3cd9522dB9cE15607c0E5e7Fb99A51aD7069",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/gb071979/token-assets/main/tether-usdt-logo-resized.png"
+    }
+  ]
+}
