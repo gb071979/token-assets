@@ -1,0 +1,19 @@
+{
+  "name": "USDT Spoof Token List",
+  "timestamp": "2024-06-26T12:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x64ff3cd9522dB9cE15607c0E5e7Fb99A51aD7069",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreifzjtn2xll6rag2yhcdp4enr2sb5nwe5oqo67bcy7o7h4zz6r5exu"
+    }
+  ]
+}
